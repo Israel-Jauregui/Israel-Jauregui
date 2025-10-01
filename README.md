@@ -36,6 +36,7 @@ I'm a computer science student that is passionate about Software Development and
 * **MATH 1113H:** Precalculus - Honors
 
 </details>
+
 ---
 
 
