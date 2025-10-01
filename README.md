@@ -12,7 +12,7 @@ I'm a computer science student that is passionate about Software Development and
 ### 🍂 Fall 2025 Courses (Current)
 * **CSCI 4840:** Machine Learning
 * **CSCI 3660:** Mobile Application Development
-* **CSCI 3510:** Networking and Internet Programming
+* **CSCI 3510:** Networking and Communications
 * **CSCI 3410:** Databases
 * **MATH 3345:** Statistical Computing
 
