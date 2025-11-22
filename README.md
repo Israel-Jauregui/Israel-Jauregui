@@ -1,7 +1,7 @@
 ## Hi, I'm Israel Jauregui. 👋
 
 ---
-I'm a computer science student that is passionate about Software Development and Statistics. I'm actively seeking a Software Developer internship for Summer 2026.
+I'm a computer science student that is passionate about Software Development and Statistics. 
 * 🤖I'm currently taking classes on Machine Learning, Statiscal Computing and Mobile Application Development.
 * 📈I have interests in Math and am currently doing a math minor.
 * 📱I lead the CodingWarriors Programming Club.
