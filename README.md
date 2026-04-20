@@ -1,22 +1,24 @@
 ## Hi, I'm Israel Jauregui. 👋
 
 ---
-I'm a computer science student that is passionate about Software Development and Statistics. 
-* 🤖I'm currently taking classes on Machine Learning, Statiscal Computing and Mobile Application Development.
-* 📈I have interests in Math and am currently doing a math minor.
-* 📱I lead the CodingWarriors Programming Club.
+I'm a computer science student passionate about Software Development and Statistics. 
+* 🤖 **Currently studying:** Software Engineering, Math Proofs, & Honors Research Methods.
+* 📈 **Math minor** to build a strong analytical foundation.
+* 📱 **Campus Leader:** President of CodingWarriors & VP of App Development Club.
 
 <details>
 <summary>📚 Click to view Relevant Coursework</summary>
 
-### 🍂 Fall 2025 Courses (Current)
+### 🌱 Current Courses
+* **CSCI 3300:** Software Engineering
+* **HNRS 3000:** Honors Research Methods
+* **MATH 2800:** Intro to Mathematical Proofs
+
+### ✅ Completed Computer Science
 * **CSCI 4840:** Machine Learning
 * **CSCI 3660:** Mobile Application Development
 * **CSCI 3510:** Networking and Communications
 * **CSCI 3410:** Databases
-* **MATH 3345:** Statistical Computing
-
-### ✅ Completed Computer Science
 * **CSCI 3250:** Computer Security
 * **CSCI 3200:** Data Structures and Analysis of Algorithms
 * **CSCI 3100:** Computer Organization and Architecture
@@ -27,6 +29,7 @@ I'm a computer science student that is passionate about Software Development and
 * **CSCI 1250:** Information Technologies
 
 ### ✅ Completed Mathematics
+* **MATH 3345:** Statistical Computing
 * **MATH 3650:** Linear Algebra
 * **MATH 3350:** Probability and Statistics
 * **MATH 2510:** Discrete Math
@@ -36,7 +39,6 @@ I'm a computer science student that is passionate about Software Development and
 * **MATH 1113H:** Precalculus - Honors
 
 </details>
-
 ---
 
 
