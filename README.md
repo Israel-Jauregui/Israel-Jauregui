@@ -9,7 +9,7 @@ Computer Science major at the University of North Georgia, with minors in Math a
 - **[Hacklonega](https://github.com/Israel-Jauregui/Hacklonega)**: landing page for the Hacktoberfest Hack Day in Dahlonega, hosted with the University of North Georgia.
 - **CodeHawks** ([frontend](https://github.com/Israel-Jauregui/CodeHawks-FrontEnd) · [backend](https://github.com/Israel-Jauregui/CodeHawks-Backend)): club website for UNG's App Development Club. React and Vite frontend with a serverless AWS backend (DynamoDB, S3, SES, SQS) managed with Terraform.
 - **[OpenInventory](https://github.com/Israel-Jauregui/OpenInventory)**: mobile inventory app with barcode scanning, low-stock alerts, and shared multi-user inventories. Built for CSCI 3300 Software Engineering.
-- **[StreetSense](https://github.com/Israel-Jauregui/StreetSense)**: built at the Hacklanta hackathon at Georgia State University for reporting potholes from your phone camera, with AI severity scoring and a live map. React Native, Expo, and the Gemini API.
+- **[StreetSense](https://github.com/Israel-Jauregui/StreetSense)**: Hacklanta @ Georgia State University. Report potholes from your phone camera, with AI severity scoring and a live map. React Native, Expo, and the Gemini API.
 
 ### 🛠 Tech
 
