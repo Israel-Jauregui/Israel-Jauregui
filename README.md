@@ -1,61 +1,41 @@
-## Hi, I'm Israel Jauregui. 👋
+## Hi, I'm Israel Jauregui 👋
 
----
-I'm a computer science student passionate about Software Development and Statistics. 
-* 🤖 **Currently studying:** Software Engineering, Math Proofs, & Honors Research Methods.
-* 📈 **Math minor** to build a strong analytical foundation.
-* 📱 **Campus Leader:** President of CodingWarriors & VP of App Development Club.
+Computer Science major at the University of North Georgia, with minors in Math and Mobile App Development. I'm President of the Software Engineering Club, and I like building full-stack web and mobile apps, mostly in TypeScript.
+
+### 🚀 Projects
+
+- **[Hacklonega](https://github.com/Israel-Jauregui/Hacklonega)**: landing page for the Hacktoberfest Hack Day in Dahlonega, hosted with the University of North Georgia.
+- **CodeHawks** ([frontend](https://github.com/Israel-Jauregui/CodeHawks-FrontEnd) · [backend](https://github.com/Israel-Jauregui/CodeHawks-Backend)): club website for UNG's App Development Club. React and Vite frontend with a serverless AWS backend (DynamoDB, S3, SES, SQS) managed with Terraform.
+- **[OpenInventory](https://github.com/Israel-Jauregui/OpenInventory)**: mobile inventory app with barcode scanning, low-stock alerts, and shared multi-user inventories. Built for CSCI 3300 Software Engineering.
+- **[StreetSense](https://github.com/Israel-Jauregui/StreetSense)**: hackathon project for reporting potholes from your phone camera, with AI severity scoring and a live map. React Native, Expo, and the Gemini API.
+- **[Vouched](https://github.com/Israel-Jauregui/Vouched)**: invite-only rental platform connecting hosts with vetted renters. FastAPI, PostgreSQL, React, and Docker.
+
+### 🛠 Tech
+
+**Languages:** TypeScript · JavaScript · Python · Java · SQL  
+**Frameworks:** React · React Native · Node.js · Express · FastAPI  
+**Cloud and tools:** AWS · Terraform · Docker · PostgreSQL · MySQL · Git
+
+### 📚 Currently studying
+
+Operating Systems · Reverse Engineering · Programming Languages · Introduction to UNIX · Senior Project
 
 <details>
-<summary>📚 Click to view Relevant Coursework</summary>
+<summary>Selected completed coursework</summary>
 
-### 🌱 Current Courses
-* **CSCI 3300:** Software Engineering
-* **HNRS 3000:** Honors Research Methods
-* **MATH 2800:** Intro to Mathematical Proofs
-
-### ✅ Completed Computer Science
-* **CSCI 4840:** Machine Learning
-* **CSCI 3660:** Mobile Application Development
-* **CSCI 3510:** Networking and Communications
-* **CSCI 3410:** Databases
-* **CSCI 3250:** Computer Security
-* **CSCI 3200:** Data Structures and Analysis of Algorithms
-* **CSCI 3100:** Computer Organization and Architecture
-* **CSCI 3000:** Web Programming
-* **CSCI 2150:** Computer Ethics and Social Issues
-* **CSCI 1302H:** Computer Science II - Honors
-* **CSCI 1301:** Computer Science I
-* **CSCI 1250:** Information Technologies
-
-### ✅ Completed Mathematics
-* **MATH 3345:** Statistical Computing
-* **MATH 3650:** Linear Algebra
-* **MATH 3350:** Probability and Statistics
-* **MATH 2510:** Discrete Math
-* **MATH 2460:** Calculus II
-* **MATH 1450:** Calculus I
-* **MATH 1401H:** Elementary Statistics (Python) - Honors
-* **MATH 1113H:** Precalculus - Honors
+- **CSCI 4840:** Machine Learning
+- **CSCI 3660:** Mobile Application Development
+- **CSCI 3510:** Networking and Communications
+- **CSCI 3410:** Databases
+- **CSCI 3300:** Software Engineering
+- **CSCI 3250:** Computer Security
+- **CSCI 3200:** Data Structures and Analysis of Algorithms
+- **MATH 3650:** Linear Algebra
+- **MATH 3350:** Probability and Statistics
+- **MATH 3345:** Statistical Computing
 
 </details>
----
 
+### 📫 Reach me
 
-
-
-
-<!--
-**Israel-Jauregui/Israel-Jauregui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/israeljaureguics/)
