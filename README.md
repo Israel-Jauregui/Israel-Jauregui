@@ -4,7 +4,7 @@ Computer Science major at the University of North Georgia, with minors in Math a
 
 ### 🚀 Projects
 
-- **[LincLife](https://github.com/codelinq-ung-team/codehawks)**: our CodeLinc project. A life insurance needs questionnaire you can talk through in VR on a Meta Quest or in a web chat, then review an estimate with the math behind it. React, Unity, Flask on AWS Lambda, Amazon Bedrock, and OpenAI Realtime voice. [Demo video](https://youtu.be/rsjHEd0Yo1Y) · [Live site](https://codelinc.codehawks.org)
+- **[LincLife](https://github.com/codelinq-ung-team/codehawks)**: our CodeLinc project. A life insurance needs questionnaire you can talk through in VR on a Meta Quest or in a web chat, then review an estimate with the math behind it. React, Unity, Flask on AWS Lambda, Amazon Bedrock, and OpenAI Realtime voice. [Demo video](https://youtu.be/rsjHEd0Yo1Y)
 - **[Dispel](https://github.com/akashjainn/dispel)**: our HackGT 13 project for the NSA HEARSAY challenge. A deepfake audio detector that scores how likely a speech clip is AI-generated and shows the evidence behind the verdict.
 - **[Hacklonega](https://github.com/Israel-Jauregui/Hacklonega)**: landing page for the Hacktoberfest Hack Day in Dahlonega, hosted with the University of North Georgia.
 - **CodeHawks** ([frontend](https://github.com/Israel-Jauregui/CodeHawks-FrontEnd) · [backend](https://github.com/Israel-Jauregui/CodeHawks-Backend)): club website for UNG's App Development Club. React and Vite frontend with a serverless AWS backend (DynamoDB, S3, SES, SQS) managed with Terraform.
