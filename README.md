@@ -2,6 +2,14 @@
 
 Computer Science major at the University of North Georgia, with minors in Math and Mobile App Development. I'm President of the Software Engineering Club, and I like building full-stack web and mobile apps, mostly in TypeScript.
 
+### 🎃 Hacklonega
+
+I organized [**Hacklonega**](https://hacklonega.dev/), UNG's first hackathon: an official Hacktoberfest 2026 Hack Day with MLH, hosted by the Software Engineering Club in Dahlonega on October 24, 2026. Students spent the day building with open-source AI and open-weight models.
+
+I also built [the website](https://github.com/Israel-Jauregui/Hacklonega): React and TypeScript with a hand-written WebGL stress ball you can fling around the page, served from AWS S3 and CloudFront under a strict CSP, with the infrastructure in Terraform and keyless GitHub Actions deploys.
+
+<a href="https://hacklonega.dev/"><img src="https://raw.githubusercontent.com/Israel-Jauregui/Hacklonega/main/docs/images/hero-club.webp" alt="The Hacklonega website: a gold typewriter wordmark on navy with the pixel Dahlonega steeple" width="640" /></a>
+
 ### 🚀 Projects
 
 - **[LincLife](https://github.com/codelinq-ung-team/codehawks)**: CodeLinc hackathon. Talk through a life insurance needs questionnaire in VR on a Meta Quest or in a web chat, then see an estimate with the math behind it. I built the Quest app and the infrastructure as code. Unity, React, AWS Lambda, Amazon Bedrock, and OpenAI Realtime voice. [Demo video](https://youtu.be/rsjHEd0Yo1Y)
@@ -9,7 +17,6 @@ Computer Science major at the University of North Georgia, with minors in Math a
 - **CodeHawks** ([frontend](https://github.com/Israel-Jauregui/CodeHawks-FrontEnd) · [backend](https://github.com/Israel-Jauregui/CodeHawks-Backend)): club website for UNG's App Development Club. React and Vite frontend with a serverless AWS backend (DynamoDB, S3, SES, SQS) managed with Terraform.
 - **[OpenInventory](https://github.com/Israel-Jauregui/OpenInventory)**: mobile inventory app with barcode scanning, low-stock alerts, and shared multi-user inventories. Built for CSCI 3300 Software Engineering.
 - **[StreetSense](https://github.com/Israel-Jauregui/StreetSense)**: Hacklanta @ Georgia State University. Report potholes from your phone camera, with AI severity scoring and a live map. React Native, Expo, and the Gemini API.
-- **[Hacklonega](https://github.com/Israel-Jauregui/Hacklonega)**: site for the Hacktoberfest Hack Day in Dahlonega, hosted with the University of North Georgia. Live at [hacklonega.dev](https://hacklonega.dev/).
 
 ### 🛠 Tech
 
